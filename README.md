@@ -9,6 +9,7 @@ Script list
 -----------
 
 * [PocztaFM-mailing-killer](https://raw.githubusercontent.com/Arkq/userscripts/master/scripts/PocztaFM-mailing-killer.user.js)
+* [Wikipedia-w-noscript](https://raw.githubusercontent.com/Arkq/userscripts/master/scripts/Wikipedia-w-noscript.user.js)
 
 
 Some alternative sites
